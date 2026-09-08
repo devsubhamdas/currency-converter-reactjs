@@ -4,7 +4,7 @@ A simple currency converter application built with **React** and **Vite**. It al
 
 ## 🚀 Live Demo
 
-https://devsubhamdas.io/currency-converter-reactjs
+[Currency Converter](https://devsubhamdas.io/currency-converter-reactjs)
 
 ## 🛠️ Tech Stack
 
@@ -19,8 +19,8 @@ https://devsubhamdas.io/currency-converter-reactjs
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd currency_converter
+git clone https://github.com/devsubhamdas/currency-converter-reactjs
+cd currency-converter-reactjs
 ```
 
 ### 2. Install dependencies
